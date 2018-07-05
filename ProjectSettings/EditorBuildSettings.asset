@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 449b90149d8d9a54fa2b8feb2b6a0682
+  - enabled: 1
+    path: Assets/Scenes/NaotoAdventure.unity
+    guid: 007aef0b7b271d54eb8d61ebc7beae80
+  m_configObjects: {}
